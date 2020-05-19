@@ -17,3 +17,6 @@ Prof. Luiz Antonio Ribeiro de Santana
 
 Módulo 4 - O modelo de Gompertz
 Profa. Ana Gabriela Martinez
+
+Módulo 5 - Soluções numéricas dos modelos matemáticos
+Prof. Elias Alfredo Gudiño Rojas
